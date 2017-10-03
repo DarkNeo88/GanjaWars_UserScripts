@@ -1,5 +1,5 @@
 # GanjaWars_UserScripts
-Скрипты для GanjaWars
+Скрипты для GanjaWars.ru
 
 # Установка скриптов:
 

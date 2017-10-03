@@ -29,7 +29,7 @@
 Чтобы убрать ненужный скрипт, достаточно удалить его из папки со скриптами.
 
 Для версии 15 и выше:
-1. Скачиваем и устанавливаем расширение Violent monkey или Tampermonkey, перейдя по этой ссылке: [Violentmonkey](https://addons.opera.com/ru/extensions/details/violent-monkey/?display=ru) [Tampermonkey](https://addons.opera.com/ru/extensions/details/tampermonkey-beta/?display=en)
+1. Скачиваем и устанавливаем расширение Violent monkey или Tampermonkey, перейдя по этой ссылке: [Violentmonkey](https://addons.opera.com/ru/extensions/details/violent-monkey/?display=ru) или [Tampermonkey](https://addons.opera.com/ru/extensions/details/tampermonkey-beta/?display=en)
 2. Устанавливаем скрипты по клику на них.
 
 Отключить или удалить скрипт можно в управлении расширением. 

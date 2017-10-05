@@ -4,32 +4,17 @@
 # Установка скриптов:
 
 ### Mozilla FireFox
-1. Скачиваем и устанавливаем плагин Greasemonkey, перейдя по ссылке [Greasemonkey](https://addons.mozilla.org/ru/firefox/addon/748/)
+1. Скачиваем и устанавливаем плагин [Greasemonkey](https://addons.mozilla.org/ru/firefox/addon/748/), [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/) или [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/).
 2. Выбираем понравившейся скрипт и скачиваем (он автоматически устанавливается).
 
-Отключить скрипт можно кликнув правой кнопкой на значке Greasemonkey в правом нижнем углу браузера и снять галку напротив ненужного скрипта.
-
 ### Google Chrome
-Для "старых" версий:
-1. Кликаем по линку скрипта или перетаскиваем в окно браузера, или в окно списка расширений.
-2. Внизу экрана, на вопрос, "Установить как расширение?", отвечаем "Да".
-
-Для новых версий (где расширения устанавливаются только из интернет магазина):
-1. Скачиваем и устанавливаем расширение Tampermonkey, перейдя по этой ссылке: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Скачиваем и устанавливаем расширение [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) или [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag).
 2. Устанавливаем скрипты по клику на них.
 
 Отключить или удалить скрипт можно в управлении расширением.  
 
 ### Opera
-Версии 12.* и ниже:
-1. Создаем папку для нужных скриптов.
-2. Кликаем правой мышью по ссылке со скриптом. Выбираем "Сохранить по ссылке как". Сохраняем в папку для скриптов.
-3. Кликаем правой мышью на активной странице с GanjaWars. Выбираем "Изменить настройки сайта". В поле сайт должно быть вписано "www.ganjawars.ru" (для страницы боев "battles0.ganjawars.ru", для аута "quest.ganjawars.ru"). Переходим на закладку "Сценарии" и указываем путь к папке со скриптами.
-
-Чтобы убрать ненужный скрипт, достаточно удалить его из папки со скриптами.
-
-Для версии 15 и выше:
-1. Скачиваем и устанавливаем расширение Violent monkey или Tampermonkey, перейдя по этой ссылке: [Violentmonkey](https://addons.opera.com/ru/extensions/details/violent-monkey/?display=ru) или [Tampermonkey](https://addons.opera.com/ru/extensions/details/tampermonkey-beta/?display=en)
+1. Скачиваем и устанавливаем расширение [Violentmonkey](https://addons.opera.com/ru/extensions/details/violent-monkey/?display=ru) или [Tampermonkey](https://addons.opera.com/ru/extensions/details/tampermonkey-beta/?display=en)
 2. Устанавливаем скрипты по клику на них.
 
 Отключить или удалить скрипт можно в управлении расширением. 
